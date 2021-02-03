@@ -1,4 +1,4 @@
-           .          .           .     .                .       .
+```           .          .           .     .                .       .
   .      .      *           .       .          .                       .
                  .       .   . *            	
   .       ____     .      . .            .     voidpoems.voyage
@@ -19,5 +19,7 @@ WWWWWWWWWWWWWIIIIIIii;;::..;..;\WWWWWWWWIIII;::; :::::::::.....::       \
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXX
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXX
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXXXXXXXX
+```
 
-=> /views_from_balcony views from a balcony
+=> /views_from_balcony.gmi views from a balcony
+=> /tortuga_journal.gmi tortuga journal
