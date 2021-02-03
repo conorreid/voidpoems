@@ -19,3 +19,5 @@ the train rattles by
 the seagulls fly round, cawing
 snow-covered, shivering, the abandoned truck waits
 the train rattles by
+
+=> /index.gmi home

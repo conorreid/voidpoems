@@ -189,3 +189,5 @@ in the wind
 mountains calling
 on the horizon
 not today
+
+=> /index.gmi home
