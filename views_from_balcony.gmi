@@ -1,21 +1,21 @@
-# views from a balcony
+## views from a balcony
 
-## spring
+### spring
 the seagulls fly round, cawing
 waterlogged in tall green grass, the abandoned truck waits
 the train rattles by
 
-## summer
+### summer
 the seagulls fly round, cawing
 surrounded by dry grass, searing to the touch, the abandoned truck waits
 the train rattles by
 
-## autumn
+### autumn
 the seagulls fly round, cawing
 observing the departing geese, the abandoned truck waits
 the train rattles by
 
-## winter
+### winter
 the seagulls fly round, cawing
 snow-covered, shivering, the abandoned truck waits
 the train rattles by
