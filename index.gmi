@@ -22,6 +22,8 @@ WWWWWWWWWWWWWIIIIIIii;;::..;..;\WWWWWWWWIIII;::; :::::::::.....::       \
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
+=> /latest.gmi latest poems
+
 => /commute_chronicles.gmi commute chronicles
 => /tortuga_journal.gmi tortuga journal
 => /views_from_balcony.gmi views from a balcony
