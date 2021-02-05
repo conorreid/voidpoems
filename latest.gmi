@@ -79,3 +79,5 @@ behind paned glass, I hear not a sound
 squeals of delight at sunset
 a fleet of kites aloft
 the unreality of reality
+
+=> /index.gmi home
