@@ -1,4 +1,13 @@
-## latest
+## latest poems
+
+the tree branch sags
+white with snow
+after the blizzard
+beauty lingers for an instant
+
+frigid chill at
+the corner of the rooftop
+the morning doves squawk
 
 gentle silence
 the light flashes walk
@@ -71,13 +80,5 @@ with scarlet leaves of death
 I forgo the extra layer
 once in a while
 I want to feel the chill
-
-leaves a flutter, big bush heaving
-the wind deals blow after blow
-behind paned glass, I hear not a sound
-
-squeals of delight at sunset
-a fleet of kites aloft
-the unreality of reality
 
 => /index.gmi home
