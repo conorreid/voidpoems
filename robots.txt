@@ -1,0 +1,3 @@
+# to block HTTP proxies
+User-agent: webproxy
+Disallow: /

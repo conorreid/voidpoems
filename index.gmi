@@ -22,12 +22,7 @@ WWWWWWWWWWWWWIIIIIIii;;::..;..;\WWWWWWWWIIII;::; :::::::::.....::       \
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-=> /latest.gmi latest poems
-
-=> /commute_chronicles.gmi commute chronicles
-=> /history_of.gmi the history of all hitherto existing society is
-=> /the_mall.gmi the mall
-=> /tortuga_journal.gmi tortuga journal
-=> /views_from_balcony.gmi views from a balcony
+=> /latest.gmi latest (short) poems
+=> /longer.gmi long(er) poems
 
 => /poems_i_like.gmi poems i like

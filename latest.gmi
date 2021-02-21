@@ -1,5 +1,13 @@
 ## latest poems
 
+early morning flakes
+on the crisp storefronts
+reminders of time past
+
+sniffing the scent of fresh snow
+i sip my coffee 
+in the Adirondack chair
+
 the tree branch sags
 white with snow
 after the blizzard
@@ -72,13 +80,5 @@ testament to our shame
 the sky rains the trees' bounty
 falling leaves and
 quiet on the mountaintop
-
-frost-bitten skies
-cleaved in half by shattered steel
-with scarlet leaves of death
-
-I forgo the extra layer
-once in a while
-I want to feel the chill
 
 => /index.gmi home
