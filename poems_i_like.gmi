@@ -8,7 +8,7 @@ at my window
 on this road
 goes no one
 autumn evening
-— 松尾 金作
+— 松尾芭蕉
 
 one leaf falls
 alas! another
@@ -18,7 +18,7 @@ with the wind
 The stars have already
 opened
 their autumn eyes
-— 尾崎 紅葉
+— 尾崎紅葉
 
 big waterfall
 joining its constant roar
@@ -76,5 +76,11 @@ The sun sets like a scar.
 Between the darkness and the dawn
 There rises a red star.
 — Langston Hughes
+
+Who can even discuss the master's methods?
+Speaking of Dao, talking of Zen, your tongues grow long.
+Old Ikkyū abhors your scrambling after marvels.
+I make a pinched, sour face, all this incense thrown on the Buddha.
+- 一休宗純
 
 => /index.gmi home
