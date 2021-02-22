@@ -24,5 +24,4 @@ WWWWWWWWWWWWWIIIIIIii;;::..;..;\WWWWWWWWIIII;::; :::::::::.....::       \
 
 => /latest.gmi latest (short) poems
 => /longer.gmi long(er) poems
-
 => /poems_i_like.gmi poems i like
