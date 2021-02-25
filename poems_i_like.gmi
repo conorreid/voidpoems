@@ -5,16 +5,6 @@ the moon
 at my window
 — 良寛大愚
 
-on this road
-goes no one
-autumn evening
-— 松尾芭蕉
-
-one leaf falls
-alas! another
-with the wind
-— 服部嵐雪
-
 The stars have already
 opened
 their autumn eyes
@@ -42,6 +32,16 @@ and the black sea roars like a speech
 and thunders up the bed.
 — О́сип Эми́льевич Мандельшта́м
 
+on this road
+goes no one
+autumn evening
+— 松尾芭蕉
+
+one leaf falls
+alas! another
+with the wind
+— 服部嵐雪
+
 The paper before my eyes fades yellow
 With a steel pen I chisel on it uneven black
 Full of working words
@@ -61,6 +61,12 @@ How many days, how many nights
 Did I - just like that - standing fall asleep?
 — 许立志
 
+Who can even discuss the master's methods?
+Speaking of Dao, talking of Zen, your tongues grow long.
+Old Ikkyū abhors your scrambling after marvels.
+I make a pinched, sour face, all this incense thrown on the Buddha.
+— 一休宗純
+
 Lenin walks around the world.
 Frontiers cannot bar him.
 Neither barracks nor barricades impede.
@@ -77,16 +83,32 @@ Between the darkness and the dawn
 There rises a red star.
 — Langston Hughes
 
-Who can even discuss the master's methods?
-Speaking of Dao, talking of Zen, your tongues grow long.
-Old Ikkyū abhors your scrambling after marvels.
-I make a pinched, sour face, all this incense thrown on the Buddha.
-— 一休宗純
-
 Wind sweeps the world and rain darkens the village,
 Rumbles roll off the mountains like ocean waves churning. 
 The furnance is soothing and the rug is warm,
 Me and my cat are not leaving the house.
 — 陆游
+
+Sun-sick and wholly eaten up by rain
+Stolen laurels in his dishevelled hair
+He has forgotten all his youth but not its dreams
+Long since the roof but the sky above it, never.
+
+Oh you who were driven out of heaven and hell
+Murderers to whom much harm occurred
+Why did you not stay in your mothers' wombs
+Where it was quiet and you slept and there you were?
+
+But he is still seeking through absinthine seas
+Even although his mother will forget him
+Grinning and cursing and also sometimes with tears
+Always a land life would be better in.
+
+Strolling through hells and lashed paradises
+Quiet and grinning with a face that is vanishing
+Now and then he dreams of a small meadow
+Blue sky above it and otherwise nothing.
+
+— Bertolt Brecht
 
 => /index.gmi home
