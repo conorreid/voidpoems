@@ -1,5 +1,6 @@
 ## long(er) poems
 
+=> /ai.gmi ai generated
 => /commute_chronicles.gmi commute chronicles
 => /history_of.gmi the history of all hitherto existing society is
 => /the_mall.gmi the mall
