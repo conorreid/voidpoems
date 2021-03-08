@@ -5,6 +5,7 @@
 => /history_of.gmi the history of all hitherto existing society is
 => /cia.gmi it's all a CIA plot
 => /the_mall.gmi the mall
+=> /seeds.gmi seeds
 => /tortuga_journal.gmi tortuga journal
 => /views_from_balcony.gmi views from a balcony
 
