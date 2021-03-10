@@ -2,6 +2,7 @@
 
 => /ai.gmi ai generated
 => /commute_chronicles.gmi commute chronicles
+=> /friends.gmi friends
 => /history_of.gmi the history of all hitherto existing society is
 => /cia.gmi it's all a CIA plot
 => /the_mall.gmi the mall
