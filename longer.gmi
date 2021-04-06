@@ -5,7 +5,7 @@
 => /friends.gmi friends
 => /history_of.gmi the history of all hitherto existing society is
 => /cia.gmi it's all a CIA plot
-=> /long_winter long winter
+=> /long_winter.gmi long winter
 => /the_mall.gmi the mall
 => /seeds.gmi seeds
 => /tortuga_journal.gmi tortuga journal
